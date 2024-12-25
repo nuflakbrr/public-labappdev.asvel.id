@@ -1,13 +1,9 @@
 # Information
 
-## [Website](https://nuflakbrr.github.io)
+## [Website](https://labappdev.asvel.id)
 
-Website [nuflakbrr.github.io](https://nuflakbrr.github.io) is a digital media from Naufal Akbar Nugroho, in it there are some important notes and excerpts that I usually use.
+Website [labappdev.asvel.id](https://nuflakbrr.github.io) is a digital media for final assignment student references from App Development Laboratory Information Technology Faculty Merdeka University Malang.
 
-## [Discuss](https://github.com/nuflakbrr/public-nuflakbrr.github.io/discussions)
+## [Discuss](https://github.com/nuflakbrr/public-labappdev.asvel.id/discussions)
 
 You can have a discussion via **Github Discussion** to add or discuss material and posts contained on the site.
-
-## Adding or Changing Snippets
-
-Visit [snippet data source](https://github.com/nuflakbrr/public-nuflakbrr.github.io/tree/main/data/snippets) and you can add or edit any existing content.

@@ -1,4 +1,4 @@
 {
-  "origins": ["https://naufalakbar.me", "https://www.naufalakbar.me", "https://nuflakbrr.github.io"],
+  "origins": ["https://labappdev.asvel.id"],
   "originsRegex": ["http://localhost:[0-9]+"]
 }
